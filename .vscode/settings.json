@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Game Dev Club.sln"
+    "dotnet.defaultSolution": "silver-disco.sln"
 }
